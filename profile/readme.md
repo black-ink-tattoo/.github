@@ -13,4 +13,4 @@ This space was created as a binder for several dedicated repos from the expansio
 - <b>Contribute:</b> No plans are currently open or ready to contribute. Project was closed in the 2016.
 ---
 
-<span>Credits: </span>Alberto Marà aka <b><a href="https://github.com/bertz-tech">github @bertz-tech</a> / <a href="https://bertz.tech">https://bertz.tech</a></b>
+<span>Credits: <b><a href="https://github.com/berto-dev">github @Deveet-Technologies</a> ~ Alberto Mararangelo <b><a href="https://github.com/berto-dev">github @berto-dev</a> / <a href="https://berto.dev">https://berto.dev</a></b>
